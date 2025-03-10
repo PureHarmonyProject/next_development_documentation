@@ -1,0 +1,8 @@
+HarmonyOS 5.0.0 Release inherits from HarmonyOS NEXT Release and is affiliated with HarmonyOS NEXT. This version indicates that HarmonyOS NEXT, after being refined through the concept phase, developer experience phase, and consumer experience phase, is officially released to consumers.
+
+This version is a full set of HarmonyOS developer suite (including the SDK and DevEco Studio) with API 12 Release as the core. You can develop applications using the developer kit in the Release state and release them to HUAWEI AppGallery. Applications currently in development with the HarmonyOS NEXT Release developer kit can transition seamlessly to the HarmonyOS 5.0.0 Release developer kit.
+
+The SDK has already reached the API 12 Release state when HarmonyOS NEXT Beta1 was released. Therefore, compared with HarmonyOS NEXT Beta1 and HarmonyOS NEXT Release, HarmonyOS 5.0.0 Release does not introduce any changes to the OS development capabilities and APIs.
+
+For details about the compatibility requirements of DevEco Studio, see DevEco Studio Compatibility and Version Mappings. View full web link on Huawei Developers global page
+https://developer.huawei.com/consumer/en/doc/harmonyos-releases-V5/overview-V5
